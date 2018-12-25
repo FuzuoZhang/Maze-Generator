@@ -14,18 +14,9 @@ UI：Pyqt
 
 - Kruscal
 
-   ![1545747864461](C:/Users/zuozuo/AppData/Roaming/Typora/typora-user-images/1545747864461.png)
-
 - DFS
-
-![1545747872923](C:/Users/zuozuo/AppData/Roaming/Typora/typora-user-images/1545747872923.png)
-
-
 
 - BFS
 
-![1545747884928](C:/Users/zuozuo/AppData/Roaming/Typora/typora-user-images/1545747884928.png)
-
 - Recursive Division
 
-![1545747895386](C:/Users/zuozuo/AppData/Roaming/Typora/typora-user-images/1545747895386.png)
