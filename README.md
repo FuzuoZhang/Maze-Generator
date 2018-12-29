@@ -20,3 +20,12 @@ UI：Pyqt
 
 - Recursive Division
 
+
+**3. Maze images with different algorithms**
+![image1](https://github.com/FuzuoZhang/Maze-Generator/blob/master/mazeImages/BFS.png)
+
+![image2](https://github.com/FuzuoZhang/Maze-Generator/blob/master/mazeImages/DFS.png)
+
+![image3](https://github.com/FuzuoZhang/Maze-Generator/blob/master/mazeImages/Kruscal.png)
+
+![image4](https://github.com/FuzuoZhang/Maze-Generator/blob/master/mazeImages/Recursive.png)
