@@ -22,10 +22,14 @@ UI：Pyqt
 
 
 **3. Maze images with different algorithms**
+1. BFS 
 ![image1](https://github.com/FuzuoZhang/Maze-Generator/blob/master/mazeImages/BFS.png)
 
+2. DFS 
 ![image2](https://github.com/FuzuoZhang/Maze-Generator/blob/master/mazeImages/DFS.png)
 
+3. Kruscal
 ![image3](https://github.com/FuzuoZhang/Maze-Generator/blob/master/mazeImages/Kruscal.png)
 
+4. Recursive 
 ![image4](https://github.com/FuzuoZhang/Maze-Generator/blob/master/mazeImages/Recursive.png)
